@@ -1,0 +1,57 @@
+body{
+    background-color: aliceblue;
+    text-align: center;
+}
+
+p{
+    margin: 0;
+}
+
+.container_1{
+    height: 400px;
+    padding: 5% 3% 1%;
+}
+
+.text-container_1{
+    padding: 5%;
+}
+
+
+#descricao{
+    margin-bottom: 7%;
+}
+
+#projetos{
+    margin-bottom: 7%;
+}
+
+.container_2{
+    height: 150px;
+    padding: 1% 0;
+}
+
+.text-container_2{
+    margin: 1% 4%;
+    border: solid 2px blue;
+}
+
+.whatsapp-link {
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 40px;
+    right: 40px;
+    background-color: #25d366;
+    color: #fff;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 1px 1px 2px #888;
+    z-index: 1000;
+}
+
+.fa-whatsapp {
+    margin-top: 16px;
+}
+
+
